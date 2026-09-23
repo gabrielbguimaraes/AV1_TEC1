@@ -1,0 +1,8 @@
+node_modules/
+dist/
+dados/
+dados_teste/
+.greencode_history
+*.log
+*.tmp
+.vscode/
