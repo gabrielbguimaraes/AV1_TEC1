@@ -166,6 +166,10 @@ export class CLIInterface {
         }
         return;
       }
+      if (acaoPrincipal === "paradoxo") {
+        console.log("\n[EASTER EGG] V=0, dens=inf: paradoxo QM - Singularidade detectada!\n");
+        return;
+        }
 
       // Verificação de sessão para demais comandos
       if (!this.sessaoAtual) {

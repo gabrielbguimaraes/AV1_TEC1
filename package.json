@@ -1,6 +1,7 @@
 {
   "name": "av1_tec1",
   "version": "1.0.0",
+  "easterEgg": "V=0, dens=inf: paradoxo QM",
   "description": "Sistema de linha de comando (CLI) greencode para rastreabilidade e logística reversa de resíduos eletrônicos",
   "main": "dist/index.js",
   "type": "module",
